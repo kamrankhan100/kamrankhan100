@@ -132,17 +132,15 @@
 
 <p align="center">
 
-<a href="https://github.com/kamrankhan100">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/kamrankhan100" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="mailto:officialkamran010@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+</p>
 
 </p>
 
@@ -155,6 +153,17 @@
 ---
 
 <div align="center">
+
+
+---
+
+# 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamrankhan100/kamrankhan100/output/github-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+
 
 ### ⭐ Thanks for visiting my profile!
 
